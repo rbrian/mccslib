@@ -38,6 +38,9 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="PacketType.cs" />
     <Compile Include="Packets.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="StreamExtensions.cs" />
+    <Compile Include="Metadata.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
